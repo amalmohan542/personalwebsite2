@@ -1,0 +1,19 @@
+.icons{
+    height: 30px;
+    text-align: center;
+}
+a{
+    margin: 24px;
+    text-align: center;
+}
+/* Modify the backgorund color */ 
+.navbar-custom { 
+	background-color: #08d9d6; 
+} 
+#service-section{
+    background-color: #e3fdfd;
+}
+
+#contact-section{
+    background-color: #e3fdfd;
+}
